@@ -1,0 +1,172 @@
+/* .bg-gradient{
+    background-color: #F5E358;
+} */
+
+.bg-custom {
+  background-color: #8cacd6;
+}
+.content {
+  padding: 2rem;
+}
+h1 {
+  font-family: "Caveat", cursive;
+  font-weight: bolder;
+  font-size: 70px;
+}
+h2 {
+  font-family: "Noto Sans Display", sans-serif;
+}
+h1,
+h2 {
+  text-align: center;
+  color: #00205b;
+}
+.animation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.second-content {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+h3 {
+  margin-left: 80px;
+  font-family: "Courier Prime", monospace;
+  font-weight: 700;
+  font-size: 50px;
+  color: #00205b;
+}
+.subtext {
+  display: flex;
+  flex-direction: column;
+  margin-left: 80px;
+  font-size: 25px;
+  color: #00205b;
+}
+.text {
+  margin-left: 80px;
+  font-size: 18px;
+  text-align: justify;
+}
+.heading {
+  display: flex;
+  color: #00205b;
+  font-family: "Courier Prime", monospace;
+  font-size: 30px;
+  margin-left: 100px;
+  margin-top: 50px;
+  font-weight: bolder;
+}
+
+.part-one {
+  display: flex;
+  gap: 100px;
+}
+.point-edu {
+  color: #00205b;
+  margin-left: 80px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.text-edu {
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.point-work {
+  color: #00205b;
+  margin-left: 80px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.text-work {
+  font-weight: 300;
+  font-size: 18px;
+}
+.part-two {
+  display: flex;
+  gap: 90px;
+}
+.point-awards {
+  color: #00205b;
+  margin-left: 80px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.text-awards {
+  font-weight: 300;
+  font-size: 18px;
+}
+.heading-skill {
+  display: flex;
+  color: #00205b;
+  font-family: "Courier Prime", monospace;
+  font-size: 30px;
+  margin-left: 100px;
+  margin-top: 50px;
+  font-weight: bolder;
+}
+.point-skills {
+  color: #00205b;
+  font-weight: 300;
+  font-size: 18px;
+  margin-left: 80px;
+  line-height: 36px;
+}
+.tool-skill {
+  display: flex;
+  color: #00205b;
+  font-family: "Courier Prime", monospace;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.tool {
+  margin-top: 46px;
+}
+
+.skills,
+.tool {
+  display: flex;
+  flex-direction: column;
+}
+.footer {
+  background-color: #222222;
+}
+.name {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+.text-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: #e3f2fd;
+  margin-left: 200px;
+  margin-top: 10px;
+  width: fit-content;
+}
+
+.logo,
+.name {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 80px;
+}
+.name,
+.text-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+.credits {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
